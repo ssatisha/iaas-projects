@@ -7,5 +7,4 @@ Some Commonly Used Commands:
 - terraform plan -out main.tfplan
 - terraform apply main.tfplan
 - terraform apply -refresh-only
-- terraform.tfstate
 - terraform destroy
